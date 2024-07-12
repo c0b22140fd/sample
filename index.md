@@ -1,8 +1,10 @@
 
 ##Images
-![image](https://octodex.github.com/scubatocat/)
+
+![image](https://octodex.github.com/images/scubatocat.png)
 
 ## Youtube Video
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UV5XUUO9a9w?si=T0AmpMw1rIZhKr5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
